@@ -44,4 +44,3 @@ def getKickAPI(username):
         except json.JSONDecodeError as e:
                 print(f"Failed to parse JSON response: {e}")
 
-print("\n",getKickAPI("4Fortune8"))

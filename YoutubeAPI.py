@@ -112,4 +112,3 @@ def getYoutubeStats(channel_handle_url):
 
 
 
-getYoutubeStats('https://www.youtube.com/@NBCNews')

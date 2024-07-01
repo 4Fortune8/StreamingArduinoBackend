@@ -77,4 +77,3 @@ def getTwitchData(username):
     return [followers_count,views]
 
 
-print(getTwitchData('caseoh_streamingg'))
